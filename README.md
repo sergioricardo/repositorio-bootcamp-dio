@@ -8,6 +8,6 @@ Este é meu repositório onde, conforme for avançando nos meus estudos, vou adi
 
 Obrigado pela visita!
 
-:postbox: [e-mail](sergiofatec@gmail.com)
+:postbox: [Linkedin](https://www.linkedin.com/in/sergio-ricardo-de-oliveira-228b0336/)
 
 
